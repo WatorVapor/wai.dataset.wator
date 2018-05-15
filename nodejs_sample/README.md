@@ -1,4 +1,5 @@
-# wai.dataset.wator
-data set of wai 
-nodejs cn.js 网友 
-word=< 网友 > value=< wǎng yoǔ >
+# Nodejs Sample
+
+- 中文
+nodejs cn.js 记者   
+词语=< 记者 > 拼音=< jìzhě >  
