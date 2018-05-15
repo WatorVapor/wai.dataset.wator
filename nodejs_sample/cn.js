@@ -10,6 +10,6 @@ db.get(word, function (err, value) {
   if (err && err.notFound) {
     console.log('word err=<',err,'>');
   } else {
-    console.log('word=<',word,'>','value=<',value,'>');
+    console.log('词语=<',word,'>','拼音=<',value,'>');
   }
 });
