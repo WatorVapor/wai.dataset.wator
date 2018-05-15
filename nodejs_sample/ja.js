@@ -1,7 +1,7 @@
 const level = require('level');
 const argv = require('argv');
 
-let dbPath = '../leveldb/cnwiktionary';
+let dbPath = '../leveldb/jawiki/dict';
 let db = level(dbPath);
 let args = argv.run();
 let word = args.targets[0];
