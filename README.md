@@ -1,6 +1,6 @@
 # 中文，日文词库
-# 中国語、日本語単語から発音記号変換データベース
-# Chinese,Japanese pronounce database
+# 中国語、日本語単語データベース
+# Chinese,Japanese PinYin Hirakana Database
 
 - 中文  
  中文词组转换拼音词库  
