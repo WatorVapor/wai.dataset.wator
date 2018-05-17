@@ -7,7 +7,7 @@ let args = argv.run();
 let word = args.targets[0];
 
 db.get(word, function (err, value) {
-  if (err && err.notFound) {
+  if (err ) {
     console.log('err=<',err,'>');
   } else {
     console.log('単語=<',word,'>','かな=<',value,'>');
