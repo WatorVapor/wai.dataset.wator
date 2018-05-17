@@ -1,3 +1,5 @@
+# https://www.wator.xyz/wai
+# https://www.wator.xyz/wai/text/participle
 # 中文，日文词库
 # 中国語、日本語単語データベース
 # Chinese PinYin,Japanese Hirakana Database
