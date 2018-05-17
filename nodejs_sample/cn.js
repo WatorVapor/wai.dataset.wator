@@ -7,7 +7,7 @@ let args = argv.run();
 let word = args.targets[0];
 
 db.get(word, function (err, value) {
-  if (err && err.notFound) {
+  if (err ) {
     console.log('word err=<',err,'>');
   } else {
     console.log('词语=<',word,'>','拼音=<',value,'>');
